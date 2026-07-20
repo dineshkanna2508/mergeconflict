@@ -1,1 +1,1 @@
-city:goa
+city:delhi
