@@ -1,1 +1,1 @@
-city:delhi
+city:bangalore
